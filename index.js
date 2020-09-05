@@ -16,7 +16,7 @@ function convetr () {
 			case 'F': return 1333;
 			case 'G': return 1329;
 			case 'H': return 1350;
-			case 'I': return 1345;
+			case 'I': return 1343;
 			case 'J': return 1339;
 			case 'K': return 1359;
 			case 'L': return 1344;
